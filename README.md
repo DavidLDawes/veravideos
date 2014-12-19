@@ -1,11 +1,11 @@
 veravideos
 ==========
 
-Collection of VirtualSoundNW videos, mostly from the Vera Project. See http://virtualsoundnw.blogspot.com
-Mostly an experiment in getting an Angular app working.
+Collection of VirtualSoundNW videos, mostly from the Vera Project. See http://virtualsoundnw.blogspot.com<br>
+Mostly an experiment in getting an Angular app working.<br>
 
-From the veravideo directory run:
-npm install
-bower install
-grunt
-grunt serve
+From the veravideo directory run:<br>
+npm install<br>
+bower install<br>
+grunt<br>
+grunt serve<br>
