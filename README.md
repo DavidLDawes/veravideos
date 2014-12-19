@@ -5,3 +5,9 @@ Collection of VirtualSoundNW videos, mostly from the Vera Project. See http://vi
 
 Mostly an experiment in getting an Angular app working.
 
+From the veravideo directory run:
+npm install
+bower install
+grunt
+grunt serve
+
