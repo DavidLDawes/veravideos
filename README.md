@@ -10,3 +10,7 @@ bower install<br>
 bower update<br>
 grunt<br>
 grunt serve<br>
+<br>
+<br>
+Requires nodejs, usual npm preamble<br>
+npm install -g bower grunt 
